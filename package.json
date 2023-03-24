@@ -1,0 +1,22 @@
+{
+  "name": "step-cards",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "sass": "^1.58.3",
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.2.1",
+    "ky": "^0.33.2",
+    "openai": "^3.2.1",
+    "smooth-scrollbar": "^8.8.1"
+  }
+}
